@@ -1,0 +1,72 @@
+[
+    {
+        "lvl": 1,
+        "name": "Overall",
+        "parent": null
+    },
+    {
+        "lvl": 2,
+        "name": "Overall-Access",
+        "parent": "Overall"
+    },
+    {
+        "lvl": 2,
+        "name": "Overall-Login",
+        "parent": "Overall"
+    },
+    {
+        "lvl": 2,
+        "name": "Overall-Management",
+        "parent": "Overall"
+    },
+    {
+        "lvl": 3,
+        "name": "Access",
+        "parent": "Overall"
+    },
+    {
+        "lvl": 3,
+        "name": "Access",
+        "parent": "Overall-Access"
+    },
+    {
+        "lvl": 3,
+        "name": "Login",
+        "parent": "Overall"
+    },
+    {
+        "lvl": 3,
+        "name": "Login",
+        "parent": "Overall-Login"
+    },
+    {
+        "lvl": 3,
+        "name": "Management",
+        "parent": "Overall-Management"
+    },
+    {
+        "lvl": 3,
+        "name": "Management",
+        "parent": "Overall"
+    },
+    {
+        "lvl": 4,
+        "name": "AdminManagement",
+        "parent": "Management"
+    },
+    {
+        "lvl": 4,
+        "name": "AdminManagement",
+        "parent": "Overall-Management"
+    },
+    {
+        "lvl": 4,
+        "name": "CommonManagment",
+        "parent": "Overall-Management"
+    },
+    {
+        "lvl": 4,
+        "name": "CommonManagment",
+        "parent": "Management"
+    }
+]
